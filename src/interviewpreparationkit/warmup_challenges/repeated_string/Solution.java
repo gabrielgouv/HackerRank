@@ -1,3 +1,7 @@
+/*
+ * https://www.hackerrank.com/challenges/repeated-string/problem
+ */
+
 package interviewpreparationkit.warmup_challenges.repeated_string;
 
 import java.util.Scanner;
