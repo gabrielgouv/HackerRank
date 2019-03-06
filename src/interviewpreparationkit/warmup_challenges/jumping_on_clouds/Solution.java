@@ -2,7 +2,7 @@
  * https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
  */
 
-package interviewpreparationkit.warmupchallenges.jumping_on_clouds;
+package interviewpreparationkit.warmup_challenges.jumping_on_clouds;
 
 import java.util.Scanner;
 

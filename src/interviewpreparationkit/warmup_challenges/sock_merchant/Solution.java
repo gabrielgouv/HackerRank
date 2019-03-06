@@ -2,7 +2,7 @@
  * https://www.hackerrank.com/challenges/sock-merchant/problem
  */
 
-package interviewpreparationkit.warmupchallenges.sock_merchant;
+package interviewpreparationkit.warmup_challenges.sock_merchant;
 
 import java.util.Scanner;
 

@@ -2,7 +2,7 @@
  * https://www.hackerrank.com/challenges/counting-valleys/problem
  */
 
-package interviewpreparationkit.warmupchallenges.counting_valleys;
+package interviewpreparationkit.warmup_challenges.counting_valleys;
 
 import java.util.Scanner;
 
