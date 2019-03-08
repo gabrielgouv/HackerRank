@@ -3,4 +3,5 @@ Solved challenges:
 - [Counting Valleys](https://github.com/gabrielgouv/HackerRank/blob/master/src/interviewpreparationkit/warmup_challenges/counting_valleys/Solution.java)
 - [Jumping on the Clouds](https://github.com/gabrielgouv/HackerRank/blob/master/src/interviewpreparationkit/warmup_challenges/jumping_on_clouds/Solution.java)
 - [Repeated String](https://github.com/gabrielgouv/HackerRank/blob/master/src/interviewpreparationkit/warmup_challenges/repeated_string/Solution.java)
+- [2D Arrays - DS](https://github.com/gabrielgouv/HackerRank/blob/master/src/interviewpreparationkit/arrays/_2d_array_ds/Solution.java)
 
